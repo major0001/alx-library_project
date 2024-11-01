@@ -96,9 +96,7 @@ Progress is measured based on the completion of foundational tasks:
    git push origin feature/AmazingFeature
    ```
 5. Open a pull request.
-
-## Related Projects
-- [Library Management System](https://vinitshahdeo.github.io/Library-Management-System/)
+6. 
 
 ## License
 Distributed under the MIT License. See [LICENSE](./LICENSE) for more information.
