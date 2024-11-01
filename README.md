@@ -95,8 +95,7 @@ Progress is measured based on the completion of foundational tasks:
    ```bash
    git push origin feature/AmazingFeature
    ```
-5. Open a pull request.
-6. 
+5. Open a pull request. 
 
 ## License
 Distributed under the MIT License. See [LICENSE](./LICENSE) for more information.
